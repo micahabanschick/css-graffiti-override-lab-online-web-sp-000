@@ -3,7 +3,6 @@
   display: none;
 }
 
-body #wall {
-  border: none;
-  border-bottom: none;
+div#wall .tag-2 {
+  display: none;
 }
